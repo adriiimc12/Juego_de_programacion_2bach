@@ -1,0 +1,21 @@
+
+Archivo: __main__.py
+
+            Este archivo se dedica a iniciar el juego, importando las funciones de los otros archivos.
+
+Archivo: estado_casilla.py
+
+            Este archivo se dedica a mostrar el estado de una casilla, ya estubiese vacia, ocupada por un objeto o ocupada por el jugador.
+            Se le darían atributos para mostrar su estado en otros archivos y un filtro de if para comprobar su estado.
+
+Archivo: juego.py
+
+            Este archivo inicializariía todas las funciones que sean necesarias para que el usuario pueda utilizar el programa en una sola.
+             
+Archivo: Jugador.py
+
+            Este archivo se utilizaria para definir al usuario y todos los movimientos disponibles para el mismo.
+            
+Archivo: Tablero.py
+
+            Este archivo sería el lugar donde se realiza el juego y donde el usuario se puede mover e interactuar con los demas objetos.
